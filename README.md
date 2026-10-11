@@ -61,7 +61,7 @@ Detailed project reports, diagrams, and architecture files are available inside 
 
 ## Author
 
-- Ash
+Developed by Aashika Anil N | GitHub
 
 ---
 
